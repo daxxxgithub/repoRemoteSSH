@@ -2,3 +2,4 @@ test for SSH
 ALPHA
 BETA
 OMEGA
+name : oliver
